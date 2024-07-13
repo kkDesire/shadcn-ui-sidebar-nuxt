@@ -1,4 +1,4 @@
-# [shadcn/ui sidebar](https://shadcn-ui-sidebar-nuxt.vercel.app) &middot;[![Author Désiré KOUASSI](https://img.shields.io/badge/D%C3%A9sir%C3%A9%20KOUASSI)](https://github.com/kkDesire)
+# [shadcn/ui sidebar](https://shadcn-ui-sidebar-nuxt.vercel.app) &middot;[![Static Badge](https://img.shields.io/badge/D%C3%A9sir%C3%A9%20KOUASSI)](https://github.com/kkDesire)
 
 A stunning and functional retractable sidebar for Next.js built on top of [shadcn/ui](https://ui.shadcn.com) complete with desktop and mobile responsiveness.
 
